@@ -1,0 +1,21 @@
+# Site settings
+title: Invisible Journey
+header-img: img/home-bg.jpg
+email: xueliang.zhao@gmail.com
+copyright_name: Xueliang Zhao (Leo)
+description: "A science fiction series."
+baseurl: ""
+url: "http://invisiblejourney.github.io"
+twitter_username: invisjourney
+github_username:  invisiblejourney
+facebook_username:  leoxlzhao
+email_username:  xueliang.zhao@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
