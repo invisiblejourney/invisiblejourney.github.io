@@ -7,7 +7,7 @@ author:     "Leo Zhao"
 header-img: "img/contact-bg.jpg"
 ---
 
-I capture the following data from Amazon.com this morning.
+I captured the following data from Amazon.com this morning.
 
 |----------------------------------+----------------|
 | Category                         | Count          |
@@ -49,11 +49,11 @@ I capture the following data from Amazon.com this morning.
 
 Is there double-counting? Probably. How precise this data is isn't the point here. Books don't die, or decay, or disappear. Once it is created, it will always be there.
 
-A normal person has a vocabulary of a few thousand words. An graduated student might recognize around 10,000 words. A bookworm can probably push this number to 20,000. The problem is, you don't want to name your book using words that people need to refer to a dictionary or think for an good half an hour to find what you are talking about. 
+A normal person has a vocabulary of a few thousand words. A graduated student might recognize around 10,000 words. A bookworm can probably push this number to 20,000. The problem is, you don't want to name your book using words that people need to refer to a dictionary or think for a good half an hour to find what you are talking about. 
 
-In the end, there are only a few thousand words to choose from. Let's say 3,000. See the problem here? If you name your book using two words, then the combination is, 3,000 X 3,000 = 9,000,000. That is smaller than our digital book collection, which means: if you use two words to name your book, there are likely already book titles that contains those two words. If that is not the case, then you probably name your book in a way that you shouldn't be using.
+In the end, there are only a few thousand words to choose from. Let's say 3,000. See the problem here? If you name your book using two words, then the combination is, 3,000 X 3,000 = 9,000,000. That is smaller than our digital book collection, which means: if you use two words to name your book, there are likely already book titles that contain those two words. If that is not the case, then you probably name your book in a way that you shouldn't be using.
 
-Even the following titles are different character-wise. It is really not that big of different that reader would be able to distinguish quickly.
+Even the following titles are different character-wise, it is really not that big of different that reader would be able to distinguish quickly.
 
 - "find my dog"
 - "find the dog"
@@ -62,5 +62,6 @@ Even the following titles are different character-wise. It is really not that bi
 - "find the yellow dog"
 - ...
 
-Any advices? Well, longer title obviously bumps the combination number to 27 billion. So, three-word title is much likely to have a conflict, although it may not sound as appealing as two-word titles.
+Any advices? Well, longer title obviously bumps the combination number. For example, combination of three-word title from the same 3,000 is 27 billion. So, three-word title is much less likely to have a conflict, although it may not sound as appealing as two-word titles.
+
 
