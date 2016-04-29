@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "What Is After Equal Right?"
-subtitle:   "Cavemen, Kings and Queens, Democracy, Equal Rights, What is Next?
+subtitle:   "Cavemen, Kings and Queens, Democracy, Equal Rights, What is Next?"
 date:       2016-04-26 20:00:00
 author:     "Leo Zhao"
 header-img: "img/contact-bg.jpg"
