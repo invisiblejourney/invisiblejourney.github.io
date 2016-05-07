@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Kindle Singles"
-subtitle:   "A Opportunity"
+subtitle:   "An Opportunity"
 date:       2016-05-06 20:00:00
 author:     "Leo Zhao"
 header-img: "img/contact-bg.jpg"
